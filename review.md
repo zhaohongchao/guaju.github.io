@@ -100,4 +100,39 @@
 5.如何关掉多个activity
 6.单例模式
 7.构造方法的作用
-8. 
+8. 工厂模式
+9. 冒泡排序
+10. 五大存储
+11. lrucache知道嘛
+12. 图片压缩思路
+13. scrollview listview嵌套会出现什么错误
+14. handler原理
+15. 集合中如何找到一个元素并且删除
+16. margin和padding的区别
+17. bundler内部存储方式是？
+18. startactivityforresult使用过没有
+1
+
+杨舒婷
+1. activity启动模式
+2. activity是通过什么进行管理
+3. 队列和堆栈的区别
+4. 图片压缩会改变图片的大小嘛
+5. oom是什么 为什么出现
+6. anr是什么为什么出现，如何避免
+7. application是什么
+8. 上下文的区分
+9. 对话框有种
+10. service启动方式
+11. 为什么使用volley
+12. 用过那些框架
+13. scrollview和listview嵌套问题
+14. 解决viewpaer预加载问题
+15. android5.0新特性
+16. recyclerview的有缺点
+17. list和set集合的区别
+18. 抽屉原理
+19. 自定义圆形图片怎么高
+20. bundle的存储结构
+
+
