@@ -1,8 +1,8 @@
 {
     "status": "200",
     "data": {
-        "version": "2.3.1",
+        "version": "1.0.1",
         "info": "添加了支付功能，添加了用户的定位功能...",
-        "appurl": "https: //www.baidu.com/2.3.1.apk"
+        "appurl": "https: //guaju.github.io/1.0.1.apk"
     }
 }
